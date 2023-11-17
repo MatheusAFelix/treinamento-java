@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Dell\Desktop\workspace-treinamento\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+995601215.index
+399262168.index
+1794764949.index
+3855371069.index

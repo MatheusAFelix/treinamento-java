@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numeroLong&apos; in &apos;br.com.treinamento.CastInteiroToLong.main(...)&apos; to &apos;numeroLongo&apos;&#x0D;&#x0A;- Original project: &apos;01-PrimeiroPrograma&apos;&#x0D;&#x0A;- Original element: &apos;br.com.treinamento.CastInteiroToLong.main(String[]).numeroLong&apos;&#x0D;&#x0A;- Renamed element: &apos;numeroLong&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numeroLong&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;br.com.treinamento{CastInteiroToLong.java[CastInteiroToLong~main~\[QString;@numeroLong!187!218!192!201!J!0!false" name="numeroLongo" references="true" stamp="1699658363151" version="1.0"/>
+</session>
