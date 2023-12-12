@@ -5,6 +5,7 @@ import java.util.Objects;
 public class Pessoa {
 
 	//Atributos
+	
 	private String nome;
 	private int idade;
 	

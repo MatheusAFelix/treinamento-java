@@ -1,0 +1,39 @@
+/.metadata/
+
+
+
+
+/.metadados/ _ _
+AJUDA.md
+alvo /
+! .mvn / wrapper / maven-wrapper.jar
+! ** / src / main / ** / target /
+! ** / src / teste / ** / alvo /
+
+### ST###
+.apt_generated
+.classpath
+.factorypath
+.projeto
+.configurações
+.springBeans
+.sts4-cache
+
+# ## IDEIA IntelliJ ###
+.ideia
+* .iws
+* .iml
+* .ipr
+
+### NetBeans###
+/ nbprojeto / privado /
+/ nbbuild /
+/ dist /
+/ nbdist /
+/.nb-gradle/ _ _
+construir /
+! ** / src / main / ** / build /
+! ** / src / teste / ** / compilação /
+
+# ## Código VS ###
+.vscode /
