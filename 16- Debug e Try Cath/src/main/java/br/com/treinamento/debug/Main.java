@@ -5,9 +5,12 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		
 		System.out.println("Início do método main");
-		
-		metodo1(2);
-		
+		try {
+			metodo1(2);
+		} catch (Exception e) {
+			System.out.println("Erro ao executar o método 1");
+			System.out.println("Motivo: "+e.getLocalizedMessage());
+		}
 		System.out.println("Fim do método main");
 
 	}
@@ -15,7 +18,6 @@ public class Main {
 	private static void metodo1(Integer imposto) throws Exception {
 		
 		System.out.println("Início do método 1");
-		
 		if(imposto<3) {
 			Exception ex = new Exception("O valor não pode ser menor que 3");
 			throw ex;
